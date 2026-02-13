@@ -27,4 +27,4 @@
 	</dependencies>
 	```
 
- 2. Install and Check: Visit the @CFcuteB/install-instruction￼ repository and execute the commands in its README.md section.
+ 2. Install and Check: Visit the [@CFcuteB/install-instruction￼](https://github.com/CFcuteB/install-instruction) repository and execute the commands in its README.md section.
